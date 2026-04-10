@@ -34,7 +34,7 @@ let colors = ["blue", "red", "yellow", "gray"];
 let index = 0;
 
 // 「押してみてね！」ボタンを取得
-let button = document.querySelector("#colorButton");
+let button = document.querySelector("#footerButton");
 
 // footer を取得
 let footer = document.querySelector("footer");
